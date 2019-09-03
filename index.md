@@ -6,6 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Abhi's First CS193 Homework
 
+- This Class makes you future ready.
+- I have been planning to learn terminal for quite a time.
+- My instructors are very nice.
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
